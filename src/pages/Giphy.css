@@ -1,0 +1,15 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.search-input {
+  background: #eee;
+}
+.result-item {
+  width: 33%;
+}
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
